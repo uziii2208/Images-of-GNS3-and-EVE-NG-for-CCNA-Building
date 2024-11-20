@@ -6,15 +6,17 @@
 <h1>Free Images-for-GNS3-and-EVE-NG for CCNA Learner From A - Z</h1>
 </div>
 
-##  Important: Please visit the provided links for valuable information.
+##  Important here
+
+### Please visit the provided links for valuable information. (Special tks for Pavankumar Hedge by he resources)
 
 <br>
 
 | Name | Link |
 |----------|----------|
-| All Images Username/Password   | [click here](https://shorturl.at/dpAS5)   |
-| EVE-NG Qemu Images Passwords   | [click here](https://shorturl.at/oHS12)   |
-| QEMU-Image-Namings             | [click here](https://shorturl.at/koqIR)   | 
+| All Images Username/Password   | [click here](https://github.com/uziii2208/Images-of-GNS3-and-EVE-NG-for-CCNA-Building/blob/main/EVE-NG%20and%20GNS3%20Images%20Passwords%20by%20Pavankumar%20Hegde.pdf)   |
+| EVE-NG Qemu Images Passwords   | [click here](https://github.com/uziii2208/Images-of-GNS3-and-EVE-NG-for-CCNA-Building/blob/main/EVE-NG%20Qemu%20Images%20Passwords.pdf)   |
+| QEMU-Image-Namings             | [click here](https://github.com/uziii2208/Images-of-GNS3-and-EVE-NG-for-CCNA-Building/blob/main/QEMU-Image-Namings.md)   | 
 
 <br>
 
