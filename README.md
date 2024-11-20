@@ -1,38 +1,17 @@
-# Images-for-GNS3-and-EVE-NG 
+<div align="center">
+<img src = "https://github.com/user-attachments/assets/5ee246f0-3197-4b78-bbbd-033dc3d2b543" />
+</div>
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/Images-for-GNS3-and-EVE-NG?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Images-for-GNS3-and-EVE-NG?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Images-for-GNS3-and-EVE-NG?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG.svg?cache=remove)
+<div align="center">
+<h1>Free Images-for-GNS3-and-EVE-NG for CCNA Learner From A - Z</h1>
+</div>
 
-<br>
-
-[![telegram-alerts-join-now-animation-vy7i86cunhc2tsvk](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG/assets/85627085/4de78ad2-7338-47ad-a203-6480f0a7db02)](https://t.me/resourcehub1)
-
-<br>
-
-# SUPPORT ME -- 🚩💲🙏
-
-### 🌟 Love my "Cisco Images for GNS3 and EVE-NG" repo? It's your one-stop solution for all vendor images, helping newbies and pros alike to simulate labs and upgrade skills hands-on. Your support means the world to me! If you'd like to show appreciation, consider buying me a coffee ☕️ or sending your best wishes. Thanks for being awesome! 
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
----
-
-# Free and Paid Learning Resources: [Claim now](https://buymeacoffee.com/hegdepavankumar/extras)
-
-<br>
-
-
-
-
-###  Important: Please visit the provided links for valuable information.
+##  Important: Please visit the provided links for valuable information.
 
 <br>
 
 | Name | Link |
 |----------|----------|
-| Join Telegram Group   | [click here](https://t.me/resourcehub1)   |
 | All Images Username/Password   | [click here](https://shorturl.at/dpAS5)   |
 | EVE-NG Qemu Images Passwords   | [click here](https://shorturl.at/oHS12)   |
 | QEMU-Image-Namings             | [click here](https://shorturl.at/koqIR)   | 
@@ -42,31 +21,11 @@
 Dive into a diverse array of routers, switches, and appliances, including Cisco, Fortigate, Palo Alto, Sophos, and more. Whether you're a seasoned professional or a learning enthusiast, our repository provides a one-stop solution for a comprehensive hands-on experience. Stay ahead in your networking journey with regularly updated images and a supportive community. For troubleshooting, updates, or requests for specific images, our dedicated team is here to assist you. Download, simulate, and innovate with confidence!
 
 
-## Note: 
+### Note: 
     
 - Download the FREE Cisco and any Vendor Image for GNS3 & EVE-NG.  
 - Feel free to use and share with your Friends those who are needed.
 - Don't use it for commercial purposes it's only for personal practices and preparations for self-growth in the Network and Security field!!
-- 🚨 Attention! Please avoid forking the GitHub repository as it undergoes frequent updates. ⚙️ Your contribution matters! Instead, consider giving the repository a ⭐️ (star) to stay updated and show your support. Thank you! 🌟
-
-
-## Guidance:
-
-Before diving into the repository, please take a moment to familiarize yourself with the following guidelines:
-
-- Usage Agreement: Ensure that you use the images in compliance with the respective vendors' terms and conditions. Respect copyright and licensing agreements.
-- Compatibility: Verify the compatibility of the images with your EVE-NG version. Regularly updated images will be marked for your convenience.
-- [Community Support:](https://t.me/resourcehub1) Join our vibrant community of network enthusiasts. Feel free to seek assistance, share your experiences, or contribute to discussions related to EVE-NG and network simulation.
-
-- Feedback: Your feedback is invaluable. If you encounter issues, have specific requests, or just want to share your thoughts, please open an issue or reach out to our support team.
-
-
-Remember, the Ultimate EVE-NG Image Repository is here to empower your network simulation endeavors. Download, simulate, and innovate with confidence. Happy networking!
-    
-<br>
-
-
-<br>
 
 # Cisco Images For GNS3
 
@@ -1359,42 +1318,47 @@ For Documentation or File Format Informations Visit here: [gns3_official](https:
 
 <br>
 
-
-
-
-## Need Help
-
-I've provided images from various vendors for practice. If you need anything else or have specific requests, please feel free to let me know here. I'm here to help!
-Please drop the message here if you have any queries!
-
-[Click Here](https://t.me/resourcehub1) 
-
+# Any issue?
+```
+- If you have a problem comment and people will try to help you!
+- No virus ⚠🛡
+- No spam just license key 🔐🔑
+- Even these keys are works below 17 or any further PRO versions ....🎊✨
+- 🌟 Hey there! Mind sprinkling some stars on my repo? It's like giving it a digital high-five! 🚀
+```
+## Contact
+```
+Feel free to contact me if you have any questions or suggestions.
+```
 <div align="center">
-<p> Happy Networking!</p>
-<div>
-<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+<p>
+  <img src="https://github.com/user-attachments/assets/72d9c8f7-cda9-431b-8e85-5c803f1d3dd4" width="32" alt="Facebook Icon"/>
+   <a href="https://www.facebook.com/corbierevn" style="text-decoration: none; font-size: 14px;">
+    Contact via Facebook
+  <img src="https://github.com/user-attachments/assets/72d9c8f7-cda9-431b-8e85-5c803f1d3dd4" width="32" alt="Facebook Icon"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/613287bd-8296-45d7-840b-f2763691fe48" width="32" alt="Discord Icon"/>
+   <a href="https://discord.com/users/863239313268670486" style="text-decoration: none; font-size: 14px;">
+    Contact via Discord
+  <img src="https://github.com/user-attachments/assets/613287bd-8296-45d7-840b-f2763691fe48" width="32" alt="Discord Icon"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/27cea862-2a59-42a1-86e4-9e5ffb6f504f" width="32" alt="Steam Icon"/>
+   <a href="https://steamcommunity.com/id/corbiere" style="text-decoration: none; font-size: 14px;">
+    Contact via Steam
+  <img src="https://github.com/user-attachments/assets/27cea862-2a59-42a1-86e4-9e5ffb6f504f" width="32" alt="Steam Icon"/>
+  </a>
+</p>
 </div>
-</div>
-
-
-<br>
-
-## Creator [🔝](Images-for-GNS3-and-EVE-NG)
-
-(https://github.com/hegdepavankumar). Created by:-
-
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
-
-
-<br>
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-<br>
 
  <!-- Support Me --> 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/f6a6e4e5-50e6-41d1-81b8-986edaa1a30e" alt="GIF Image">
+</div>
 
- 
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
+ # If you've found our work helpful,🤝 I would greatly appreciate it if you could take a moment to give a star ⭐. Your feedback is valuable and helps us improve. Thank you!🙏
